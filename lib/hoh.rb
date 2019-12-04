@@ -31,7 +31,7 @@
 # }
 
 def naming_system
- hash = {}
+ hash = {[:sub_category][:sub_category][:sub_category][:sub_category][:sub_category][:sub_category][:sub_category]}
   # Remember:
   #  Kingdom
   #  Phylum
