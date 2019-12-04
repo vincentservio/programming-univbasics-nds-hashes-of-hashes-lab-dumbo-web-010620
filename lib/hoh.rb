@@ -31,7 +31,7 @@
 # }
 
 def naming_system
-kingdom = {[:Phylum][:Class][:Order][:label]}
+kingdom = {[:Phylum][:Class][:Order]}
   #  Kingdom
   #  Phylum
   #  Class
