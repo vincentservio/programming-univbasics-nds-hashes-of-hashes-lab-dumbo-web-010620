@@ -30,7 +30,7 @@
 #   sub_category: nil
 # }
 
-def naming_system
+def naming_system(PORTION_1)
  PORTION_1 = {
    label: "Kingdom",
    sub_category: {
