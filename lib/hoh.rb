@@ -31,7 +31,18 @@
 # }
 
 def naming_system
-kingdom = {:Phylum=>{}, :Class=>{}, :Order=>{}}
+ PORTION_1 = {
+   label: "Kingdom",
+   sub_category: {
+     label: "Phylum",
+     sub_category: {
+       label: "Class"
+     }
+   }
+}
+
+
+#kingdom = {:Phylum=>{}, :Class=>{}, :Order=>{}}
   #  Kingdom
   #  Phylum
   #  Class
