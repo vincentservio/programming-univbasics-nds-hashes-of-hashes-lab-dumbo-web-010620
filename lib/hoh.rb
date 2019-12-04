@@ -31,8 +31,7 @@
 # }
 
 def naming_system
-order = {:sub_category=>{} ,:sub_category=>{},:order=>{}}
-  # Remember:
+order = {[:sub_category][:sub_category][:sub_category][:label]}
   #  Kingdom
   #  Phylum
   #  Class
