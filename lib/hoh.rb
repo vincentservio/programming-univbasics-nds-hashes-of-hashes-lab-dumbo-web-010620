@@ -31,7 +31,7 @@
 # }
 
 def naming_system
- hash= {}
+ hash = {}
   # Remember:
   #  Kingdom
   #  Phylum
