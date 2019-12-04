@@ -31,7 +31,7 @@
 # }
 
 def naming_system
- PORTION_1 = {}
+ hash= {}
   # Remember:
   #  Kingdom
   #  Phylum
